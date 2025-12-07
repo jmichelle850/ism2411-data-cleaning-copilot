@@ -1,0 +1,4 @@
+prod_name,category,price,qty,date_sold,drop_reason
+usb cable,Electronics,7.99,-1.0, 2024-01-02,negative_qty
+coffee mug,Kitchen,5.49,-3.0, 2024-01-05,negative_qty
+stapler,Office,-6.25,5.0, 2024-01-09,negative_price
